@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+ p {
+     text-align: center;
+     color: black;
+ }
+ #CtoF {
+     padding: 10px;
+ }
+
+ #FtoC {
+     padding: 10px;
+ }
+ body {
+     background-color: darkslategray;
+ }
+
+ .converter {
+     /* display: flex;
+     justify-content: center; */
+     margin: 0 auto;
+     width: 300px;
+ }
+
+.form {
+    display: block;
+}    
+
+label {
+    color:darkgray;
+}
